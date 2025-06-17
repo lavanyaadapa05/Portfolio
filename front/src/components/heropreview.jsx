@@ -58,7 +58,7 @@ export const products = [
   },
   {
     title: "Resume",
-    link: "https://drive.google.com/file/d/1eHu4QjxSwO69_ksq8ula43ION3ptuN8_/view?usp=sharing",
+    link: "https://drive.google.com/file/d/1gKNWdSQf0UlmPDkncW85MEbo5tCkb1-f/view?usp=sharing",
     thumbnail:
       "/assets/resume.png",
   },
