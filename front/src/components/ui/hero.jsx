@@ -48,7 +48,7 @@ export const Header = () => {
     <div className="max-w-7xl relative mx-auto py-20 md:py-40 px-4 w-full left-0 top-0">
       <h1 className="text-2xl md:text-7xl font-bold dark:text-white">Lavanya Adapa<br />Dream. Build. Repeat.</h1>
       <p className="max-w-2xl text-base md:text-xl mt-8 dark:text-neutral-200">
-  Hey, I'm Lavanya Adapa! I'm a junior Computer Science student at SVECW Bhimavaram.  
+  Hey, I'm Lavanya Adapa! I'm a senior  Computer Science student at SVECW Bhimavaram.  
   I love turning ideas into reality whether it's through code, art, or any creative pursuit,  
   and I'm always on the lookout for new ways to challenge the norm. Welcome to my playground of possibility.  
   <b className="text-pink-400 neon-text">Scroll down, explore, and get to know me better!</b>
