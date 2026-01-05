@@ -14,7 +14,7 @@ export const products = [
   },
   {
     title: "CodingProfiles",
-    link: "/coding",
+    link: "https://codolio.com/profile/LavanyaAdapa",
     thumbnail:
       "/assets/codingprofiles.png",
   },
@@ -58,7 +58,7 @@ export const products = [
   },
   {
     title: "Resume",
-    link: "https://drive.google.com/file/d/1gKNWdSQf0UlmPDkncW85MEbo5tCkb1-f/view?usp=sharing",
+    link: "https://drive.google.com/file/d/1wUqbfHgDJjT-pYIrzDUpcQobKUszzVMh/view?usp=sharing",
     thumbnail:
       "/assets/resume.png",
   },
