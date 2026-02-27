@@ -17,7 +17,7 @@ const projects = [
   {
     name: 'Technova website',
     description: 'Technova is a website we developed for our college fest with the goal of streamlining event registrations and enhancing the participant experience. Although it didnt make it to the final deployment or live screens during the fest, it was a valuable learning experience for me. We are proud of the effort and innovation we put into the project, and we welcome you to take a look at our work.',
-    link: 'https://techniva-site.com',
+    link: 'https://technova-b7qy.onrender.com/',
   },
   {
     name: 'Clean Code',
